@@ -245,6 +245,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url("../img/bnn.jpg") top right no-repeat;
   background-size: cover;
   position: relative;
+  opacity:75%;
 }
 @media (min-width: 992px) {
   #hero {
